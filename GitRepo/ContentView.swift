@@ -30,6 +30,7 @@ struct ContentView: View {
             Image("p3")
                 .resizable()
                 .scaledToFit()
+            Text("haha doge happy")
         }
     }
 }
